@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
