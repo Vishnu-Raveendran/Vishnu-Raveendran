@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Tailwind Css**
 
-- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts**
+- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts, Angular, Node JS**
 
 
 <p align="left">
