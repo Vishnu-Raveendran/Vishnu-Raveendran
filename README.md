@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Material UI**
 
-- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts, Angular, Node JS, Ionic**
+- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts, Angular, Node JS, Ionic, Python scripting, Tkinter**
 
 
 <p align="left">
