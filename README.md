@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Angular, Tailwind Css**
+- 🌱 I’m currently learning **Angular, Material UI**
 
-- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts, Angular, Node JS**
+- 💬 Ask me about **Java, PostgreSQL, SpringBoot, Servlet and JSP, Struts, Angular, Node JS, Ionic**
 
 
 <p align="left">
